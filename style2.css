@@ -1,0 +1,21 @@
+body {
+  
+  background-image: url('img3.png');
+  background-size: cover;
+  
+}
+body, h1, h2, p, ul, li {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  color: #fff;
+}
+nav a {
+  display: inline-block;
+  padding: 10px;
+  text-decoration: none;
+  color: #fff;
+}
+div{
+    text-align: center;
+}
